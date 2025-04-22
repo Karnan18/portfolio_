@@ -1,0 +1,16 @@
+.navbar{
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  .btn{
+    background-color: orange;
+    padding: 10px 15px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+  }

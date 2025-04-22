@@ -1,0 +1,36 @@
+.hiring{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding-left:  70px;
+    
+  }
+  .sham{
+    padding-right: 30px;
+    display: flex;
+    align-items: center;
+    height: 60vh;
+  }
+  .hire-me{
+    color:orangered;
+  }
+  .hiremebutton{
+    
+    padding: 20px 30px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: none;
+    font-weight: 1000;
+    
+  }
+  .Why{
+    text-align:left;
+    margin: 40px;
+  }
+  .aboutme{
+    margin: 20px;
+    padding-right: 80px;
+    margin-top: 20px;
+  }
+  
