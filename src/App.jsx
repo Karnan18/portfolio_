@@ -5,7 +5,10 @@ import Navbar from "./Component/Navigation/Navbar"
 import Hero from "./Component/Hero/Hero"
 import Skillset from "./Component/Skillset/Skillset"
 import Hiring from "./Component/Hiring/Hiring"
-
+import "./Component/Hero/Hero.css"
+import "./Component/Hiring/Hiring.css"
+import "./Component/Navigation/Navbar.css"
+import "./Component/Skillset/Skillset.css"
 
 
 const App = () => {
